@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Khalds&label=Profile%20views&color=blue&style=flat" alt="Khalds" /> </p>
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/Khalds/Khalds" target="_blank">Khald</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -45,3 +43,5 @@
 [![Mail.ru](https://img.shields.io/badge/-mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=orange)](href="abv.khallid@mail.ru/)
 [![Telegram](https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/khallds)
 [![Whatsapp](https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/79667221352)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Khalds&label=Profile%20views&color=blue&style=flat" alt="Khalds" /> </p>
