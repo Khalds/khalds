@@ -21,9 +21,7 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalds&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-
-### My works:
+## My works:
 
 <b>➖ Real Estate</b>
 <br><b><kbd>Next JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
@@ -37,10 +35,8 @@ Hi, my name is Khalid. I’m a frontend developer.
 <br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>React router</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/Khalds/react-news-site)</b>
 
-<hr>
+## Connect with me:
 
-### Connect with me
-
-[![Telegram](https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/khallds)
 [![Mail.ru](https://img.shields.io/badge/-mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=orange)](href="abv.khallid@mail.ru/)
+[![Telegram](https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/khallds)
 [![Whatsapp](https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/79667221352)
