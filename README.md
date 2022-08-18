@@ -37,8 +37,6 @@ Hi, my name is Khalid. I’m a frontend developer.
 <br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>React router</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/Khalds/react-news-site)</b>
 
-<hr>
-
 ### Connect with me:
 
 [![Mail.ru](https://img.shields.io/badge/-mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=orange)](href="abv.khallid@mail.ru/)
