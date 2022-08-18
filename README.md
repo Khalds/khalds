@@ -18,4 +18,4 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDb-090909?style=for-the-badge&logo=mongodb)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
-![Node JS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=nodejs)
+![Node JS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=node)
