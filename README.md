@@ -41,7 +41,5 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 ### Connect with me
 
-<a href="https://t.me/khallds"> <img alt="Telegram" src="https://img.shields.io/badge/@khallds-2CA5E0?style=for-the-badge&logo=telegram" /></a>
-<br/>
-<a href="abv.khallid@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/abv.khallid@mail.ru-%23E4405F.svg?style=for-the-badge&logo=mail"/></a>
-<br/>
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/khallds)
+[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)]
