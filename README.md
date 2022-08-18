@@ -23,7 +23,7 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 <hr>
 
-## Works
+### My works:
 
 <b>➖ Real Estate</b>
 <br><b><kbd>Next JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
@@ -43,5 +43,5 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 <a href="https://t.me/khallds"> <img alt="Telegram" src="https://img.shields.io/badge/@khallds-2CA5E0?style=for-the-badge&logo=telegram" /></a>
 <br/>
-<a href="betteramsly@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/abv.khallid@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox"/></a>
+<a href="abv.khallid@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/abv.khallid@mail.ru-%23E4405F.svg?style=for-the-badge&logo=mail"/></a>
 <br/>
