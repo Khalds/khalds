@@ -41,7 +41,6 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 ### Connect with me
 
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/khallds)
+[![Telegram](https://img.shields.io/badge/-telegram?style=for-the-badge&logo=telegram)](https://t.me/khallds)
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/invites/contact/?i=1niadglh717i2&utm_content=k8pzfko)
 [![Whatsapp](https://img.shields.io/badge/-whatsapp-090909?style=for-the-badge&logo=whatsapp)](https://t.me/khallds)
-
