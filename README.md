@@ -2,8 +2,8 @@
 
 ### Language and Tools
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=e34c26)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=4f86f7)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
-![Mongo DB](https://img.shields.io/badge/-Mongo-090909?style=for-the-badge&logo=mongo)
+![MongoDB](https://img.shields.io/badge/-MongoDb-090909?style=for-the-badge&logo=mongodb)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
-![Node JS](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
+![Node JS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=nodejs)
