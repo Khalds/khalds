@@ -1,8 +1,6 @@
 ## Hi, my name is Khalid. I’m a frontend developer.
 
-### Language and Tools
-
-###
+## Language and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
