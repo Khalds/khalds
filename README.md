@@ -1,8 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Khalds&label=Profile%20views&color=blue&style=flat" alt="Khalds" /> </p>
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/Khalds/Khalds" target="_blank">Khald</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align='center'>I’m a frontend developer. </h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Khalds&label=Profile%20views&color=yellow&style=flat" alt="Khalds" /> </p>
 
 ## Language and Tools:
 
