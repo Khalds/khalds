@@ -20,8 +20,14 @@
 <img alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
 <hr>
 
+<p>
+<a href="https://github.com/Khalds'>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalds&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalds&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</a>
+</p>
 
 
 <hr>
