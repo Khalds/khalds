@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align='center'>I’m a frontend developer. </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Khalds&label=Profile%20views&color=f50a0a&style=flat" alt="Khalds" /> </p>
 
 ## Language and Tools:
 
