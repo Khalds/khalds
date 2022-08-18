@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Khalds/Khalds" target="_blank">Khald</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## About Me
-
-<b align='center'>I’m a frontend developer. </b>
+<h2 align='center'>I’m a frontend developer. </h2>
 
 ## Language and Tools:
 
