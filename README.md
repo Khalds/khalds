@@ -21,7 +21,9 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalds&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My works:
+<hr>
+
+### My works:
 
 <b>➖ Real Estate</b>
 <br><b><kbd>Next JS</kbd><kbd>Redux Toolkit</kbd><kbd>Local Storage</kbd></b>
@@ -35,7 +37,9 @@ Hi, my name is Khalid. I’m a frontend developer.
 <br><b><kbd>React</kbd><kbd>Redux Toolkit</kbd><kbd>React router</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/Khalds/react-news-site)</b>
 
-## Connect with me:
+<hr>
+
+### Connect with me:
 
 [![Mail.ru](https://img.shields.io/badge/-mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=orange)](href="abv.khallid@mail.ru/)
 [![Telegram](https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/khallds)
