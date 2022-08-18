@@ -17,7 +17,9 @@ Hi, my name is Khalid. I’m a frontend developer.
 <img align="left" alt="Git" width="50px" src="https://img.icons8.com/color/344/git.png" />
 <img align="left" alt="Figma" width="50px" src="https://img.icons8.com/color/344/figma--v1.png" />
 <img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
+<br>
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
