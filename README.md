@@ -19,7 +19,7 @@ Hi, my name is Khalid. I’m a frontend developer.
 <img alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -41,7 +41,7 @@ Hi, my name is Khalid. I’m a frontend developer.
 
 ### Connect with me
 
-<a href="https://t.me/betteramsly"> <img alt="Telegram" src="https://img.shields.io/badge/@betteramsly-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/khallds"> <img alt="Telegram" src="https://img.shields.io/badge/@khallds-2CA5E0?style=for-the-badge&logo=telegram" /></a>
 <br/>
-<a href="betteramsly@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/betteramsly@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox&logoColor=white"/></a>
+<a href="betteramsly@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/abv.khallid@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox"/></a>
 <br/>
