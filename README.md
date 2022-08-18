@@ -22,3 +22,29 @@ Hi, my name is Khalid. I’m a frontend developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShg&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
+
+### Works
+
+<b>➖ Pizza App</b>
+<br><b><kbd>React</kbd> <kbd>Redux Toolkit</kbd> <kbd>Firebase</kbd> <kbd>Typescript</kbd><kbd>Local Storage</kbd></b>
+<br><b>-[Repository](https://github.com/betteramsly/react-pizza)</b>
+<br><b>-[Demo](https://react-pizza-pi-nine.vercel.app/)</b>
+
+<b>➖ Responsive Layout </b>
+<br><b><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JS</kbd> <kbd>SCSS</kbd><kbd>Adaptive</kbd></b>
+<br><b>-[Repository](https://github.com/betteramsly/portfolio)</b>
+<br><b>-[Demo](https://betteramsly.github.io/portfolio/)</b>
+
+<b>➖ Product Card</b>
+<br><b> <kbd>HTML</kbd> <kbd>SCSS</kbd> <kbd>JS</kbd> <kbd>module.scss</kbd> <kbd>React</kbd><kbd>Next.js</kbd> </b>
+<br><b>-[Repository](https://github.com/betteramsly/vicuesoft-test)</b>
+<br><b>-[Demo](https://vicuesoft-test.vercel.app/)</b>
+
+<hr>
+
+### Connect with me
+
+<a href="https://t.me/betteramsly"> <img alt="Telegram" src="https://img.shields.io/badge/@betteramsly-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<br/>
+<a href="betteramsly@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/betteramsly@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox&logoColor=white"/></a>
+<br/>
